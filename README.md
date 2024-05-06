@@ -1,6 +1,9 @@
-# shopping_list
+# Shopping List
 
-A new Flutter project.
+Aplikacja - Lista zakupów.
+
+![Screen_1](https://github.com/dejwid03/shopping_list/blob/main/screenshots/Screenshot_1715028764.png)
+![Screen_2](https://github.com/dejwid03/shopping_list/blob/main/screenshots/Screenshot_1715028772.png)
 
 ## Getting Started
 
